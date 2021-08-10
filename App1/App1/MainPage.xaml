@@ -6,11 +6,42 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
-    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    Loaded="Page_Loaded">
 
-    <Grid>
-        <Button x:Name="ClickMeButton" Content="Click Me" Margin="0,299,0,0" VerticalAlignment="Top" HorizontalAlignment="Center" FontSize="12" Click="ClickMeButton_Click"/>
-        <TextBlock x:Name="ResultTextBlock" HorizontalAlignment="Center" Margin="0,485,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" SelectionChanged="TextBlock_SelectionChanged" FontSize="20"/>
+    <Grid Name="LayoutGrid" Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="2*" />
+            <RowDefinition Height="1*" />
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <Button x:Name="ClickMeButton"
+                Content="Click Me" 
+                HorizontalAlignment="Center"
+                FontSize="12"
+                Click="ClickMeButton_Click" Background="#FFA8A1A1"
+                Height="51"
+                Width="111"
+                Grid.Column="1"
+                />
+        <TextBlock x:Name="ResultTextBlock" 
+                   HorizontalAlignment="Center" 
+                   Margin="0,0,0,0" 
+                   Text="TEXT" 
+                   TextWrapping="Wrap" 
+                   VerticalAlignment="Center" 
+                   SelectionChanged="TextBlock_SelectionChanged" 
+                   FontSize="20"
+                   Grid.Row="1"
+                   Grid.Column="1"
+                   />
 
     </Grid>
 </Page>

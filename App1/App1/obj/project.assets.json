@@ -8166,11 +8166,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kenne\\source\\repos\\App1\\App1\\App1.csproj",
+      "projectUniqueName": "C:\\Users\\kenne\\OneDrive\\Code_Repo\\UWP\\App1\\App1\\App1.csproj",
       "projectName": "App1",
-      "projectPath": "C:\\Users\\kenne\\source\\repos\\App1\\App1\\App1.csproj",
+      "projectPath": "C:\\Users\\kenne\\OneDrive\\Code_Repo\\UWP\\App1\\App1\\App1.csproj",
       "packagesPath": "C:\\Users\\kenne\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kenne\\source\\repos\\App1\\App1\\obj\\",
+      "outputPath": "C:\\Users\\kenne\\OneDrive\\Code_Repo\\UWP\\App1\\App1\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

@@ -36,5 +36,23 @@ namespace App1
         {
             ResultTextBlock.Text = "Button has been clicked";
         }
+
+        private void Page_Loaded(object sender, RoutedEventArgs e)
+        {
+            /*
+            Button myButton = new Button();
+            myButton.Name = "ClickMeButton";
+            myButton.Content = "Click Me";
+            myButton.Width = 200;
+            myButton.Height = 100;
+            myButton.Margin = new Thickness(20, 20, 0, 0);
+            myButton.HorizontalAlignment = Windows.UI.Xaml.HorizontalAlignment.Left;
+            myButton.VerticalAlignment = Windows.UI.Xaml.VerticalAlignment.Top;
+            myButton.Background = new SolidColorBrush(Windows.UI.Colors.Red);
+            myButton.Click += ClickMeButton_Click;
+            LayoutGrid.Children.Add(myButton);
+            */
+        }
+
     }
 }

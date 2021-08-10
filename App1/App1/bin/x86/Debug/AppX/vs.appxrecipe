@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>80e81999-2c11-4a41-a4c9-79ae78ac07df</PackageIdentityName>
     <PackageIdentityPublisher>CN=Ken</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\kenne\source\repos\App1\App1\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\kenne\OneDrive\Code_Repo\UWP\App1\App1\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\kenne\source\repos\App1\App1\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\kenne\OneDrive\Code_Repo\UWP\App1\App1\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>F9FD9AE4A0D04930122D135742DE87F22F45071E86D2CCE554647CFFF66A27F0</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>80e81999-2c11-4a41-a4c9-79ae78ac07df_1.0.0.0_x86__mmmx6zngkpdcc</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>80e81999-2c11-4a41-a4c9-79ae78ac07df_mmmx6zngkpdcc!App</RegisteredUserModeAppID>
@@ -27,16 +27,16 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\kenne\source\repos\App1\App1\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\kenne\OneDrive\Code_Repo\UWP\App1\App1\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-08-10T03:57:10.469</Modified>
+      <Modified>2021-08-10T07:37:40.950</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\kenne\source\repos\App1\App1\bin\x86\Debug\App1.exe">
+    <AppxPackagedFile Include="C:\Users\kenne\OneDrive\Code_Repo\UWP\App1\App1\bin\x86\Debug\App1.exe">
       <PackagePath>entrypoint\App1.exe</PackagePath>
-      <Modified>2021-08-10T03:57:02.951</Modified>
+      <Modified>2021-08-10T07:37:40.259</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.12\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -46,67 +46,67 @@
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2020-12-02T10:52:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kenne\source\repos\App1\App1\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\kenne\OneDrive\Code_Repo\UWP\App1\App1\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2021-08-10T03:48:58.886</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kenne\source\repos\App1\App1\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\kenne\OneDrive\Code_Repo\UWP\App1\App1\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2021-08-07T19:09:53.520</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kenne\source\repos\App1\App1\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\kenne\OneDrive\Code_Repo\UWP\App1\App1\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-08-07T19:09:53.529</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kenne\source\repos\App1\App1\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\kenne\OneDrive\Code_Repo\UWP\App1\App1\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-08-07T19:09:53.531</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kenne\source\repos\App1\App1\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\kenne\OneDrive\Code_Repo\UWP\App1\App1\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-08-07T19:09:53.532</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kenne\source\repos\App1\App1\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\kenne\OneDrive\Code_Repo\UWP\App1\App1\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-08-07T19:09:53.533</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kenne\source\repos\App1\App1\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\kenne\OneDrive\Code_Repo\UWP\App1\App1\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-08-07T19:09:53.535</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kenne\source\repos\App1\App1\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\kenne\OneDrive\Code_Repo\UWP\App1\App1\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2021-08-07T19:09:53.537</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kenne\source\repos\App1\App1\bin\x86\Debug\App1.xr.xml">
+    <AppxPackagedFile Include="C:\Users\kenne\OneDrive\Code_Repo\UWP\App1\App1\bin\x86\Debug\App1.xr.xml">
       <PackagePath>App1.xr.xml</PackagePath>
-      <Modified>2021-08-10T03:57:02.481</Modified>
+      <Modified>2021-08-10T07:16:38.871</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kenne\source\repos\App1\App1\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\kenne\OneDrive\Code_Repo\UWP\App1\App1\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2021-08-10T03:57:02.596</Modified>
+      <Modified>2021-08-10T07:37:40.147</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kenne\source\repos\App1\App1\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\kenne\OneDrive\Code_Repo\UWP\App1\App1\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2021-08-10T03:57:02.596</Modified>
+      <Modified>2021-08-10T07:37:40.147</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2020-12-02T08:52:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kenne\source\repos\App1\App1\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\kenne\OneDrive\Code_Repo\UWP\App1\App1\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <Modified>2021-08-10T03:57:04.655</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\kenne\source\repos\App1\App1\bin\x86\Debug\Core\App1.exe">
+    <AppxPackagedFile Include="C:\Users\kenne\OneDrive\Code_Repo\UWP\App1\App1\bin\x86\Debug\Core\App1.exe">
       <PackagePath>App1.exe</PackagePath>
-      <Modified>2021-08-10T03:57:10.454</Modified>
+      <Modified>2021-08-10T07:37:40.943</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
