@@ -8,6 +8,41 @@
     mc:Ignorable="d">
 
     <Grid>
-        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="SelectDevice Page" FontSize="48" />
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="2*" />
+        </Grid.RowDefinitions>
+
+        <Button x:Name="StartWatcherButton" HorizontalAlignment="Stretch" 
+                VerticalAlignment="Stretch"
+                Content="Start Watcher" 
+                Grid.Row="0"
+                Margin="1" 
+                VariableSizedWrapGrid.ColumnSpan="2" 
+                Click="StartWatcherButton_Click"/>
+        <Button x:Name="StopWatcherButton" HorizontalAlignment="Stretch" 
+                VerticalAlignment="Stretch"
+                Grid.Row="1"                        
+                Content="Stop Watcher" 
+                Margin="1" 
+                VariableSizedWrapGrid.ColumnSpan="2" 
+                Click="StopWatcherButton_Click"
+                IsEnabled="False"/>
+
+
+        <StackPanel x:Name="StatusPanel" Orientation="Vertical" Grid.Row="2">
+            <TextBlock x:Name="StatusLabel" Margin="10,0,0,10" TextWrapping="Wrap" Text="Status:" />
+            <Border x:Name="StatusBorder" Margin="0,0,0,0">
+                <ScrollViewer VerticalScrollMode="Auto"  VerticalScrollBarVisibility="Auto" MaxHeight="200">
+                <TextBlock x:Name="StatusBlock"
+                           FontWeight="Bold"
+                           MaxWidth="{Binding ElementName=Splitter, Path=ActualWidth}"
+                           Margin="10,10,10,20"
+                           TextWrapping="Wrap"  />
+                </ScrollViewer>
+            </Border>
+        </StackPanel>
+
     </Grid>
 </Page>

@@ -24,6 +24,7 @@ namespace App0
     /// </summary>
     public sealed partial class MainPage : Page
     {
+
         public MainPage()
         {
             MaximizeWindowOnLoad();
@@ -53,12 +54,22 @@ namespace App0
 
         private void HamburgerButton_Click(object sender, RoutedEventArgs e)
         {
-            
+            MySplitView.IsPaneOpen = !MySplitView.IsPaneOpen;
         }
 
         private void ListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
+            if (BLE.IsSelected)
+            {
+                MyFrame.Navigate(typeof(SelectDevice));
+                TitleTextBlock.Text = "Select BLE Device";
+            }
+            else if (Device_Info.IsSelected)
+            {
+                MyFrame.Navigate(typeof(DeviceView));
+                TitleTextBlock.Text = "Sensor communications";
+            }
+         }
 
-        }
     }
 }

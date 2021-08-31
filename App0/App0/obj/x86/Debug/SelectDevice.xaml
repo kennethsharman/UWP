@@ -8,7 +8,29 @@
     mc:Ignorable="d">
 
     <Grid>
-        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="SelectDevice Page" FontSize="48" />
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="2*" />
+        </Grid.RowDefinitions>
+
+        <Button x:ConnectionId='2' x:Name="StartWatcherButton" HorizontalAlignment="Stretch" 
+                VerticalAlignment="Stretch"
+                Content="Start Watcher" 
+                Grid.Row="0"
+                Margin="1" 
+                VariableSizedWrapGrid.ColumnSpan="2" 
+                                                />
+        <Button x:ConnectionId='3' x:Name="StopWatcherButton" HorizontalAlignment="Stretch" 
+                VerticalAlignment="Stretch"
+                Grid.Row="1"                        
+                Content="Stop Watcher" 
+                Margin="1" 
+                VariableSizedWrapGrid.ColumnSpan="2" 
+                                               
+                IsEnabled="False"/>
+
+        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="2" Text="SelectDevice Page" FontSize="48" />
     </Grid>
 </Page>
 

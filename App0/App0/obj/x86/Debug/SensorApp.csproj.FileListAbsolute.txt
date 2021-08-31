@@ -52,3 +52,4 @@ C:\Users\kenne\OneDrive\Code_Repo\UWP\App0\App0\obj\x86\Debug\qualifiers.txt.int
 C:\Users\kenne\OneDrive\Code_Repo\UWP\App0\App0\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\kenne\OneDrive\Code_Repo\UWP\App0\App0\obj\x86\Debug\ProjectArchitectures.txt
 C:\Users\kenne\OneDrive\Code_Repo\UWP\App0\App0\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637425031200000000.json
+C:\Users\kenne\OneDrive\Code_Repo\UWP\App0\App0\obj\x86\Debug\SensorApp.csproj.AssemblyReference.cache

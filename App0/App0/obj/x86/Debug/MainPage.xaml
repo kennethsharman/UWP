@@ -30,24 +30,30 @@
             
         </RelativePanel>
 
+        <!--
+        In Windows search bar type in 'Character map' to get list of icons
+        or
+        https://docs.microsoft.com/en-us/windows/apps/design/style/segoe-ui-symbol-font
+        -->
+
         <SplitView x:ConnectionId='2' Grid.Row="1" 
                    Name="MySplitView"
                    DisplayMode="CompactOverlay" 
-                   OpenPaneLength="200" 
+                   OpenPaneLength="250" 
                    CompactPaneLength="56">
             <SplitView.Pane>
                 <ListBox x:ConnectionId='3' SelectionMode="Single" 
                                                                     >
                     <ListBoxItem x:ConnectionId='4' Name="BLE">
                         <StackPanel Orientation="Horizontal">
-                            <TextBlock FontFamily="Segoe MDL2 Assets" FontSize="36" Text="&#xE80F;" />
-                            <TextBlock FontSize="24" Margin="20,0,0,0">Financial</TextBlock>
+                            <TextBlock FontFamily="Segoe MDL2 Assets" FontSize="36" Text="&#xE702;" />
+                            <TextBlock FontSize="24" Margin="20,0,0,0">Select Device</TextBlock>
                         </StackPanel>
                     </ListBoxItem>
                     <ListBoxItem x:ConnectionId='5' Name="Device_Info">
                         <StackPanel Orientation="Horizontal">
-                            <TextBlock FontFamily="Segoe MDL2 Assets" FontSize="36" Text="&#xE1CE;" />
-                            <TextBlock FontSize="24" Margin="20,0,0,0">Food</TextBlock>
+                            <TextBlock FontFamily="Segoe MDL2 Assets" FontSize="36" Text="&#xE975;" />
+                            <TextBlock FontSize="24" Margin="20,0,0,0">Send &amp; Receive</TextBlock>
                         </StackPanel>
                     </ListBoxItem>
                 </ListBox>

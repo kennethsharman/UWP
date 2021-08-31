@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\kenne\OneDrive\Code_Repo\UWP\App0\App0\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-08-17T04:22:05.624</Modified>
+      <Modified>2021-08-31T03:51:51.620</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\kenne\OneDrive\Code_Repo\UWP\App0\App0\bin\x86\Debug\App0.exe">
       <PackagePath>entrypoint\App0.exe</PackagePath>
-      <Modified>2021-08-17T04:22:04.993</Modified>
+      <Modified>2021-08-31T03:51:50.764</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.12\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -90,19 +90,19 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenne\OneDrive\Code_Repo\UWP\App0\App0\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2021-08-17T04:22:04.914</Modified>
+      <Modified>2021-08-31T03:51:07.969</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenne\OneDrive\Code_Repo\UWP\App0\App0\bin\x86\Debug\DeviceView.xbf">
       <PackagePath>DeviceView.xbf</PackagePath>
-      <Modified>2021-08-17T04:22:04.914</Modified>
+      <Modified>2021-08-31T03:51:07.969</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenne\OneDrive\Code_Repo\UWP\App0\App0\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2021-08-17T04:22:04.915</Modified>
+      <Modified>2021-08-31T03:51:07.969</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenne\OneDrive\Code_Repo\UWP\App0\App0\bin\x86\Debug\SelectDevice.xbf">
       <PackagePath>SelectDevice.xbf</PackagePath>
-      <Modified>2021-08-17T04:22:04.915</Modified>
+      <Modified>2021-08-31T03:51:07.969</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -114,7 +114,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kenne\OneDrive\Code_Repo\UWP\App0\App0\bin\x86\Debug\Core\App0.exe">
       <PackagePath>App0.exe</PackagePath>
-      <Modified>2021-08-17T04:22:05.603</Modified>
+      <Modified>2021-08-31T03:51:51.600</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
