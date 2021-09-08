@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pWQVEGlOaEq2gCIxRGMgDH8vvuezoAOE6ELni+hYSc1ITqkDpdQ7j4inuLs5nrd3BPV0v4Pnx0zvhEQxfAbG7w==",
+  "dgSpecHash": "GCanIKj3Mh8qQm2VYB9eAu8GVCdeaGEYRYn18SwuZDc3ERqxicPi0cCmNPDfZfQQ046kPqq7EiixOr9MDYyuUA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kenne\\OneDrive\\Code_Repo\\UWP\\App10\\App10\\App10.csproj",
+  "projectFilePath": "C:\\Users\\kenne\\OneDrive\\Code_Repo\\UWP\\10 - targetTech functionalities\\App10\\App10.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.native.compiler\\2.2.10-rel-29722-00\\microsoft.net.native.compiler.2.2.10-rel-29722-00.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.uwpcoreruntimesdk\\2.2.12\\microsoft.net.uwpcoreruntimesdk.2.2.12.nupkg.sha512",

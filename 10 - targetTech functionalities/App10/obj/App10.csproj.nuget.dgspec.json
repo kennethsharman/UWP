@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kenne\\OneDrive\\Code_Repo\\UWP\\App10\\App10\\App10.csproj": {}
+    "C:\\Users\\kenne\\OneDrive\\Code_Repo\\UWP\\10 - targetTech functionalities\\App10\\App10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kenne\\OneDrive\\Code_Repo\\UWP\\App10\\App10\\App10.csproj": {
+    "C:\\Users\\kenne\\OneDrive\\Code_Repo\\UWP\\10 - targetTech functionalities\\App10\\App10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kenne\\OneDrive\\Code_Repo\\UWP\\App10\\App10\\App10.csproj",
+        "projectUniqueName": "C:\\Users\\kenne\\OneDrive\\Code_Repo\\UWP\\10 - targetTech functionalities\\App10\\App10.csproj",
         "projectName": "App10",
-        "projectPath": "C:\\Users\\kenne\\OneDrive\\Code_Repo\\UWP\\App10\\App10\\App10.csproj",
+        "projectPath": "C:\\Users\\kenne\\OneDrive\\Code_Repo\\UWP\\10 - targetTech functionalities\\App10\\App10.csproj",
         "packagesPath": "C:\\Users\\kenne\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kenne\\OneDrive\\Code_Repo\\UWP\\App10\\App10\\obj\\",
+        "outputPath": "C:\\Users\\kenne\\OneDrive\\Code_Repo\\UWP\\10 - targetTech functionalities\\App10\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [

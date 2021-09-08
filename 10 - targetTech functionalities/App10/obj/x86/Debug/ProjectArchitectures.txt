@@ -1,1 +1,1 @@
-C:\Users\kenne\OneDrive\Code_Repo\UWP\App10\App10\App10.csproj;x86
+C:\Users\kenne\OneDrive\Code_Repo\UWP\10 - targetTech functionalities\App10\App10.csproj;x86
